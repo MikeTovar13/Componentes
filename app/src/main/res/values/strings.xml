@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Bienvenido</string>
+    <string name="subtitle">Interactua con los botones para cambiar los fragmentos del interior del contenedor</string>
+    <string name="firstButton">Rojo</string>
+    <string name="secondButton">Azul</string>
+    <string name="fragBlue">Ayuda para que esta aplicación funciones</string>
+    <string name="startButton">Iniciar</string>
+    <string name="fragRed">Iniciar chat</string>
+</resources>
